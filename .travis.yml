@@ -3,6 +3,7 @@ sudo: true
 branches:
   only:
     - master
+    - develop
 
 osx_image: xcode8.3
 
