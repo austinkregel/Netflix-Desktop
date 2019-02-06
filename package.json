@@ -2,7 +2,7 @@
   "name": "Netflix",
   "description": "A Desktop App For Netflix Wirtten Using Electron.",
   "author": "Oscar Beaumont",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "license": "MIT",
   "scripts": {
     "dev": "electron-webpack dev",
